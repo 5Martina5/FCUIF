@@ -35,5 +35,7 @@ Further settings for the dataset, number of clients, overlapping rate, align_rat
 
 ## Citation 
 If you find our code useful, please cite:
+
 Yazhou Ren, Xinyue Chen, Jie Xu, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, and Lifang He. A novel federated multi-view clustering method for unaligned and incomplete data fusion. *Information Fusion,* page 102357, 2024.
+
 Thanks. Any problem can contact Xinyue Chen (martinachen2580@gmail.com).
