@@ -46,6 +46,7 @@ If you find our code useful, please cite:
   pages={1-10},
   year={2024}
 }
+
 @inproceedings{chen2023federated,
   title={Federated Deep Multi-View Clustering with Global Self-Supervision},
   author={Chen, Xinyue and Xu, Jie and Ren, Yazhou and Pu, Xiaorong and Zhu, Ce and Zhu, Xiaofeng and Hao, Zhifeng and He, Lifang},
