@@ -1,6 +1,7 @@
 ## A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion
 
-Code for the paper "A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion".
+Code for the paper "A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion". (Information Fusion)
+Code for the paper "Federated deep multi-view clustering with global self-supervision". (ACM MM 2023)
 
 ## Requirements
 
@@ -36,6 +37,22 @@ Further settings for the dataset, number of clients, overlapping rate, align_rat
 ## Citation 
 If you find our code useful, please cite:
 
-Yazhou Ren, Xinyue Chen, Jie Xu, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, and Lifang He. A novel federated multi-view clustering method for unaligned and incomplete data fusion. *Information Fusion,* page 102357, 2024.
+```latex
+@article{ren2024novel,
+  title={A novel federated multi-view clustering method for unaligned and incomplete data fusion},
+  author={Ren, Yazhou and Chen, Xinyue and Xu, Jie and Pu, Jingyu and Huang, Yonghao and Pu, Xiaorong and Zhu, Ce and Zhu, Xiaofeng and Hao, Zhifeng and He, Lifang},
+  journal={Information Fusion},
+  volume={108},
+  pages={1-10},
+  year={2024}
+}
+@inproceedings{chen2023federated,
+  title={Federated Deep Multi-View Clustering with Global Self-Supervision},
+  author={Chen, Xinyue and Xu, Jie and Ren, Yazhou and Pu, Xiaorong and Zhu, Ce and Zhu, Xiaofeng and Hao, Zhifeng and He, Lifang},
+  booktitle={ACM MM},
+  pages={3498--3506},
+  year={2023}
+}
+```
 
 Thanks. Any problem can contact Xinyue Chen (martinachen2580@gmail.com).
